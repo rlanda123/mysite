@@ -1,0 +1,1 @@
+This is my first ruby on rails web site project created to learn ruby on rails, git and github.
